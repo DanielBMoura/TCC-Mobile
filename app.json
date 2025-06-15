@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "TechBitTcc",
+    "slug": "TechBitTcc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash-icon1.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Techbit_mv.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00BFFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {  
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
